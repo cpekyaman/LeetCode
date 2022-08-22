@@ -1,4 +1,4 @@
-package com.leetcode.problems.medium;
+package com.leetcode.learning.bst;
 
 public final class InorderSuccessor {
     private boolean found;

@@ -1,4 +1,4 @@
-package com.leetcode.problems.medium;
+package com.leetcode.learning.bst;
 
 public final class DeleteNodeInABST {
     public TreeNode deleteNode(TreeNode root, int key) {

@@ -1,4 +1,4 @@
-package com.leetcode.problems.easy;
+package com.leetcode.learning.stack;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

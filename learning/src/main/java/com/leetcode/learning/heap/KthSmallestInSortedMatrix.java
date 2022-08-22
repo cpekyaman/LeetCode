@@ -1,4 +1,4 @@
-package com.leetcode.problems.medium;
+package com.leetcode.learning.heap;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

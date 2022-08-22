@@ -1,6 +1,5 @@
-package com.leetcode.problems.medium;
+package com.leetcode.learning.queue;
 
-import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
 

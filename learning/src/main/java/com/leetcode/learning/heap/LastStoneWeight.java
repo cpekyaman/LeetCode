@@ -1,4 +1,4 @@
-package com.leetcode.problems.easy;
+package com.leetcode.learning.heap;
 
 import java.util.Arrays;
 import java.util.Comparator;

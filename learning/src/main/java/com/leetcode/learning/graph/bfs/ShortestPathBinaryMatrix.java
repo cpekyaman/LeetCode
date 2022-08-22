@@ -1,4 +1,4 @@
-package com.leetcode.problems.medium;
+package com.leetcode.learning.graph.bfs;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

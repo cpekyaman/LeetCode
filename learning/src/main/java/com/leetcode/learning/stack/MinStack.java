@@ -1,4 +1,4 @@
-package com.leetcode.problems.easy;
+package com.leetcode.learning.stack;
 
 public final class MinStack {
     private Node head = null;
